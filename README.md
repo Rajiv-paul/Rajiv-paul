@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajiv-paul&show_icons=true&locale=en" alt="rajiv-paul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajiv-paul&" alt="rajiv-paul" /></p>
+
+[![An image of @rajivpaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajivpaul)](https://holopin.io/@rajivpaul)
